@@ -1,21 +1,36 @@
-Hi, I'm Darlington Ekeopara
+Hi, I'm Darlington 👋
 
-Aspiring Finance Operation and Compliance Analyst based in Dublin.
+Aspiring Data Analyst based in Dublin with a focus on finance and operations analytics.
+
 
 🔧 Skills
 - Python (Pandas, Matplotlib, Seaborn)
 - Excel (Dashboards, Pivot Tables)
 - Data Analysis & Visualisation
-- CRM'S and Enterprise Softwares
+- Business Insights & Reporting
 
 📊 Projects
-- Credit Risk Data Pipeline & Dashboard  
-- Finance Analysis (Investment Behaviour)
+
+🔹 Credit Risk Data Pipeline & Dashboard
+- Built a data pipeline using Python to ingest and validate financial data  
+- Created an interactive Excel dashboard with KPIs and slicers  
+- Delivered insights on sales, profit, and regional performance  
+
+👉 https://github.com/Git-Data123/credit-risk-project
+
+
+🔹 Customer Investment Behaviour Analysis
+- Analysed financial dataset using Python and Pandas  
+- Identified trends in investment preferences and demographics  
+- Built visualisations to highlight behavioural patterns  
+
+👉 https://github.com/Git-Data123/finance-analysis-project
+
 
 🚀 Currently Learning
-- SQL
-- Power BI
-- Mastering Python for Finance Operations
+- SQL for data querying
+- Power BI for business dashboards
+
 
 📫 Connect with me
-https://www.linkedin.com/in/darlingtonekeopara/
+LinkedIn: https://www.linkedin.com/in/darlingtonekeopara
