@@ -1,6 +1,7 @@
 Hi, I'm Darlington 👋
 
 Aspiring Data Analyst based in Dublin with a focus on finance and operations analytics.
+💡 Passionate about using data to solve real-world finance and operations problems
 
 
 🔧 Skills
