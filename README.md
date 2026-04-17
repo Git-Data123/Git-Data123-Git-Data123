@@ -1,4 +1,4 @@
-Hi, I'm Darlington 👋
+Hi, I'm Darlington Ekeopara
 
 Aspiring Finance Operation and Compliance Analyst based in Dublin.
 
@@ -15,6 +15,7 @@ Aspiring Finance Operation and Compliance Analyst based in Dublin.
 🚀 Currently Learning
 - SQL
 - Power BI
+- Mastering Python for Finance Operations
 
 📫 Connect with me
 https://www.linkedin.com/in/darlingtonekeopara/
